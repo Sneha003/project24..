@@ -1,6 +1,6 @@
-# pro24
+# project24..
+
+out link
 
 
-project outlink
-
-https://sneha003.github.io/pro24/
+https://github.com/Sneha003/project24.
